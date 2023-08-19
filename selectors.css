@@ -1,0 +1,21 @@
+selection h3
+{
+    color: blue;
+    background-color: blanchedalmond;
+
+}
+section>h2
+{
+    color: red;
+    background-color: aquamarine;
+}
+selection+h3
+{
+    color: yellow;
+    background: rgb(220, 7, 7);
+}
+selection~h3
+{
+    color: blueviolet;
+    background: rgb(9, 103, 165);
+}

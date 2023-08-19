@@ -1,0 +1,52 @@
+/* after Pseudo Elemeent */
+/* #true::after
+{
+    content: "-->true";
+    color: green;
+}
+#verytrue::after
+{
+    content: "-->verytrue";
+    color: red;
+}
+
+/* Before Pseudo Elemeent */
+/* #true::before
+{
+    content: "-->true";
+    color: green;
+}
+#verytrue::before
+{
+    content: "-->verytrue";
+    color: red;
+} */
+
+
+
+/* first line */
+p::first-letter
+{
+    background-color: yellow;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/* first line */
+/* p::first-line
+{
+    background-color: aqua;
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+} */
+
+
+/* selection */
+p::selection
+{
+    background-color: blanchedalmond;
+    color: brown;
+
+}

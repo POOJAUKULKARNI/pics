@@ -1,0 +1,81 @@
+[
+    {
+        "id":"101",
+        "username":"abc",
+        "image":"https://avatars.dicebear.com/v2/avataaars/{{username}}.svg?options[mood][]=happy",
+        "emailid":"abc@gmail",
+        "phone":"123456789",
+        "address":{
+            "address1":"3 main,2nd cross road,katraj ,pune",
+            "address2":"1st main,2nd cross ,KRpuram ,bangalore"
+    
+        },
+        "company":"jsp"
+
+    },
+    {
+        "id":"102",
+        "username":"cde",
+        "image":"https://avatars.dicebear.com/v2/avataaars/{{username}}.svg?options[mood][]=happy",
+        "emailid":"cde@gmail",
+        "phone":"9876532",
+        "address":{
+            "address1":"5main,3nd cross road,undri ,pune",
+            "address2":"1st main,8nd cross ,nelmangala ,bangalore"
+    
+        },
+        "company":"qsp"
+    },
+    {
+        "id":"103",
+        "username":"qwe",
+        "image":"https://avatars.dicebear.com/v2/avataaars/{{username}}.svg?options[mood][]=happy",
+        "emailid":"qwe@gmail",
+        "phone":"1121212121",
+        "address":{
+            "address1":"3 main,2nd cross road,pisoli ,pune",
+            "address2":"1st main,2nd cross ,8th mail,bangalore"
+    
+        },
+        "company":"testyantra"
+    },
+    {
+        "id":"104",
+        "username":"zxc",
+        "image":"https://avatars.dicebear.com/v2/avataaars/{{username}}.svg?options[mood][]=happy",
+        "emailid":"zxc@gmail",
+        "phone":"121314151517",
+        "address":{
+            "address1":"8 main,2nd cross road,bapdev ghat ,pune",
+            "address2":"1st main,2nd cross ,yashvantpur ,bangalore"
+    
+        },
+        "company":"infotech"
+    },
+    {
+        "id":"105",
+        "username":"asd",
+        "image":"https://avatars.dicebear.com/v2/avataaars/{{username}}.svg?options[mood][]=happy",
+        "emailid":"asd@gmail",
+        "phone":"89809808099",
+        "address":{
+            "address1":"3 main,2nd cross road,mg road ,pune",
+            "address2":"1st main,2nd cross ,mg road ,bangalore"
+    
+        },
+        "company":"laxmi infotech"
+    },
+    {
+        "id":"106",
+        "username":"pqr",
+        "image":"https://avatars.dicebear.com/v2/avataaars/{{username}}.svg?options[mood][]=happy",
+        "emailid":"pqr@gmail",
+        "phone":"10101010101",
+        "address":{
+            "address1":"3 main,2nd cross road,nibm road,pune",
+            "address2":"1st main,2nd cross ,chruch gate ,bangalore"
+    
+        },
+        "company":"jsp"
+    }
+]

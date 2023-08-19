@@ -1,0 +1,10 @@
+.Cards{
+    width:90%;
+    max-width:30 rem;
+    height:25rem;
+    border:1px sloid  rgb(212, 196, 196);
+    border-radius:10px;
+    background-color: #ffff;
+    box-shadow: 1px 1px 1px 1px rgba(216,215,215) ;
+
+}

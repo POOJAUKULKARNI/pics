@@ -1,0 +1,40 @@
+*{
+    padding :0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* mobile */
+@media screen and (max-width:400px){
+    h1{
+        font-size: 15px;
+        background-color: blueviolet;
+        /* padding:30px; */
+    }
+}
+/* tab */
+@media screen and (min-width:401) and (max-width:700px){
+    h1{
+        font-size: 20px;
+        background-color:aqua;
+        padding:40px;
+    }
+}
+/* laptop */
+@media screen and (min-width:701) and (max-width:1200px){
+    h1{
+        font-size: 30px;
+        background-color:pink;
+        padding: 60px;
+    }
+}
+/* big screen */
+@media screen and (min-width:12001) {
+    h1{
+        font-size: 40px;
+        background-color:yellowgreen;
+        padding: 80px;
+    }
+}
